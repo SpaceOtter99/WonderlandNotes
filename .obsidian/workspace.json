@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "0952b66f1766d279",
+    "type": "split",
+    "children": [
+      {
+        "id": "d662d572cf244d73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "848c317830db7999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teasers/Characters/Captain Bonny.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Captain Bonny"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b767a1580f506423",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c03c0e119e09dc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f574889537468bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cc21815b2ab9ea9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d8b05fadcffcaeef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8cbe262563e106a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "96b17b1710d5d589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c192479d60ed925",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "2c9d12256ed1c5ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "6fd7f7c26d79578e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d48a0219fe688f2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "848c317830db7999",
+  "lastOpenFiles": [
+    "Teasers/Red Text.md",
+    "Teasers/Images/wonderland-teaser-1-wide.png",
+    "Teasers/Images/367366507_294105129931343_2147121884747230210_n.jpeg",
+    "Misc/monster images.png",
+    "Session notes/Session Notes.md",
+    "Characters/NPCs/Evienne.md",
+    "Characters/NPCs/Familiars/Alia.md",
+    "Characters/Monsters/Leofric.md",
+    "Characters/Monsters/Boss/Convex.md",
+    "Characters/Monsters/Boss/Count Vyrnon.md",
+    "The Dream/Floor 1.md",
+    "The Dream/Floor 18.md",
+    "The Dream/Floor 13.md",
+    "Session notes",
+    "Teasers/Summaries/Teaser 8.md",
+    "The Dream/Floor 19.md",
+    "The Dream/Floor 20.md",
+    "Teasers/Summaries/Unused Teaser 1.md",
+    "Memory Fragments/Transcripts/Floor 3 Memory Fragment.md",
+    "Memory Fragments/Transcripts/Floor 1 Memory Fragment.md",
+    "Teasers/Summaries/Teaser 15.md",
+    "Teasers/List of Teasers.md",
+    "Teasers/Images/wonderland-teaser-8.png",
+    "Teasers/Summaries/Teaser 14.md",
+    "Teasers/Summaries/Teaser 13.md",
+    "Teasers/Summaries/Teaser 7.md",
+    "Teasers/Summaries/Teaser 9.md",
+    "Teasers/Summaries/Teaser 10.md",
+    "Teasers/Summaries/Teaser 11.md",
+    "Teasers/Summaries/Teaser 12.md",
+    "Characters/Monsters/Boss",
+    "The Dream",
+    "Teasers/Images/wonderland-teaser-14-edited.png",
+    "Teasers/Images/wonderland-teaser-13-edited.png",
+    "Misc",
+    "Characters/NPCs/Familiars",
+    "Teasers/Images/wonderland-teaser-5.png",
+    "Characters/Monsters",
+    "Teasers/Images/wonderland-teaser-4-edited.png",
+    "Memory Fragments/Transcripts",
+    "Memory Fragments",
+    "Teasers/Themes",
+    "Characters/NPCs",
+    "Teasers/Images/wonderland-teaser-16.png",
+    "Teasers/Images/wonderland-teaser-18.png"
+  ]
+}

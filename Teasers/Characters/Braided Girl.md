@@ -1,0 +1,1 @@
+Always show in white. Likely a #dreamer , likely the same person as [[Straight Haired Girl]]

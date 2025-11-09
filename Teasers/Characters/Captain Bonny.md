@@ -1,0 +1,1 @@
+#Captain of the ship mentioned in [[Teaser 11]]. Likely deceased. Potentially one of [[Braided Girl]] or [[Straight Haired Girl]].

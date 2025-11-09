@@ -1,0 +1,1 @@
+Memory Fragment: [[Floor 1 Memory Fragment]]
