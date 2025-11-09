@@ -1,0 +1,1 @@
+Quincy is the [[Evienne|First Dreamer]] from the [[Spurned in Starlight]] campaign. Her familiar was a black cat that could teleport between floors. She made a deal with the demon monster Caldomir and intended to betray the party. She changed her mind after they were kind to her. Identifiable from her axe, Ataraxia, and a tattoo of an eyeball on her wrist.

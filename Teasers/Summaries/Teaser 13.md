@@ -15,4 +15,6 @@ misguided
 It depends on who you ask, really.
 ```
 
-Likely referring to [[Captain Bonny]], from [[Teaser 11]]. Given the figure is a white silhouette we know to be female, this could well be an alternate appearance of [[Braided Girl]] or [[Straight Haired Girl]]
+Likely referring to [[Captain Bonny]], from [[Teaser 11]]. Given the figure is a white silhouette we know to be female, this could well be an alternate appearance of [[Braided Girl]] or [[Straight Haired Girl]].
+
+When brightened, text reads '[[Quincy]]'.

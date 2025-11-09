@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d662d572cf244d73",
+        "id": "92940ce8f04edf19",
         "type": "tabs",
         "children": [
           {
-            "id": "848c317830db7999",
+            "id": "c3f2defcbde77575",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teasers/Characters/Captain Bonny.md",
+                "file": "Teasers/Summaries/Teaser 13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Captain Bonny"
+              "title": "Teaser 13"
             }
           }
         ]
@@ -179,14 +179,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "848c317830db7999",
+  "active": "c3f2defcbde77575",
   "lastOpenFiles": [
+    "Characters/NPCs/Evienne.md",
+    "Quincy.md",
+    "Teasers/Summaries/Teaser 13.md",
+    "Teasers/Characters/Straight Haired Girl.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled.base",
+    "2025-11-09.md",
+    "Teasers/Images/wonderland-teaser-17.png",
+    "Teasers/Characters/Captain Bonny.md",
     "Teasers/Red Text.md",
     "Teasers/Images/wonderland-teaser-1-wide.png",
     "Teasers/Images/367366507_294105129931343_2147121884747230210_n.jpeg",
     "Misc/monster images.png",
     "Session notes/Session Notes.md",
-    "Characters/NPCs/Evienne.md",
     "Characters/NPCs/Familiars/Alia.md",
     "Characters/Monsters/Leofric.md",
     "Characters/Monsters/Boss/Convex.md",
@@ -205,12 +214,8 @@
     "Teasers/List of Teasers.md",
     "Teasers/Images/wonderland-teaser-8.png",
     "Teasers/Summaries/Teaser 14.md",
-    "Teasers/Summaries/Teaser 13.md",
     "Teasers/Summaries/Teaser 7.md",
     "Teasers/Summaries/Teaser 9.md",
-    "Teasers/Summaries/Teaser 10.md",
-    "Teasers/Summaries/Teaser 11.md",
-    "Teasers/Summaries/Teaser 12.md",
     "Characters/Monsters/Boss",
     "The Dream",
     "Teasers/Images/wonderland-teaser-14-edited.png",
@@ -223,8 +228,6 @@
     "Memory Fragments/Transcripts",
     "Memory Fragments",
     "Teasers/Themes",
-    "Characters/NPCs",
-    "Teasers/Images/wonderland-teaser-16.png",
-    "Teasers/Images/wonderland-teaser-18.png"
+    "Teasers/Images/wonderland-teaser-16.png"
   ]
 }
